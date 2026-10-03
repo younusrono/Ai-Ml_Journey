@@ -1,0 +1,17 @@
+1. Parentheses: ()
+
+2. Postfix / Unary: ++, --, +, -, !
+
+3. Multiplicative: *, /, % (Multiplication, Division, Modulus/Remainder)
+
+4. Additive: +, - (Addition and Subtraction)
+
+5. Relational / Comparison: >, <, >=, <=
+
+6. Equality: ==, !=
+
+7. Logical AND: && (or and)
+
+8. Logical OR: || (or or)
+
+9. Assignment: =, +=, -=
