@@ -1,0 +1,4 @@
+Types of Function :
+ 
+1.Built in
+2.User defined 
