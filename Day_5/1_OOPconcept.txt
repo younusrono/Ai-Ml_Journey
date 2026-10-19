@@ -1,0 +1,19 @@
+What is Object-Oriented Programming (OOP)?
+
+Object-Oriented Programming (OOP) is a programming method where we organize a program using objects and classes.
+
+1. Class: A blueprint or design for creating objects.
+
+2.Object: A real thing created from a class.
+
+OOP helps us make programs easy to understand, reuse, and manage.
+
+Example:
+A `Student` class can contain information like name, ID, and age, and functions like study()  or  displayInfo().
+
+In simple words:
+OOP means creating programs by using classes and objects.
+
+
+Function → একটা নির্দিষ্ট কাজ করে।
+OOP      → পুরো program-কে object/class দিয়ে organize করে

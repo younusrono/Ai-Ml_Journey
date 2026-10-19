@@ -1,0 +1,21 @@
+Attribute and Method
+
+1. Attribute:
+An attribute is a property or data of an object.
+
+
+Example:
+A Student can have `name`, `id`, and `age` as attributes.
+
+
+Method:
+A method is a function inside a class that performs an action.
+
+
+Example:
+A Student can have `study()` and `display_info()` as methods.
+
+Easy way to remember:
+
+Attribute = What an object has
+Method    = What an object does
